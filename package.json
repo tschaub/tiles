@@ -1,0 +1,20 @@
+{
+  "name": "tiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gdal": "^0.9.3",
+    "mapnik": "^3.5.14"
+  },
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-tschaub": "^5.0.0"
+  }
+}
